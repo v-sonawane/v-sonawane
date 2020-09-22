@@ -1,4 +1,4 @@
-<img src="https://github.com/v-sonawane/v-sonawane/blob/master/sss2.PNG?raw=true" height="300" width="500">
+<img src="https://github.com/v-sonawane/v-sonawane/blob/master/sss2.PNG?raw=true" height="300" width="510">
 
 <!--
 **v-sonawane/v-sonawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <p>📫 How to reach me: 
 <center>
-<a href="https://www.linkedin.com/in/vaishnavi-sonawane-82ba351a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a><a href="https://medium.com/@vsona200900"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/vaishnavi-sonawane-82ba351a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://medium.com/@vsona200900"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
 <a href="https://www.instagram.com/_vaishnavi_sonawane"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 </center>
 </p>
