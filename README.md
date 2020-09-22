@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-sonawane&show_icons=true&theme=radical)<br/>
 
-<a href="https://www.linkedin.com/in/vaishnavi-sonawane-82ba351a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
+<p><center><a href="https://www.linkedin.com/in/vaishnavi-sonawane-82ba351a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://medium.com/@vsona200900"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
-
 <a href="https://www.instagram.com/_vaishnavi_sonawane"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+</center></p>
 
-![E-Mail](mailto:vsona200900@gmail.com?subject=[GitHub] Source Han Sans)
