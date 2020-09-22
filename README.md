@@ -1,4 +1,4 @@
-<img src="https://github.com/v-sonawane/v-sonawane/blob/master/sss2.PNG?raw=true" height="250" width="350">
+<img src="https://github.com/v-sonawane/v-sonawane/blob/master/sss2.PNG?raw=true" height="300" width="500">
 
 <!--
 **v-sonawane/v-sonawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
