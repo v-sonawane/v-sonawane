@@ -3,27 +3,19 @@
 
 <h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
 
-<!--
-**v-sonawane/v-sonawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="30">
 
-Here are some ideas to get you started:
+<h3>My stats:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-sonawane&show_icons=true&theme=radical)<br/>
+![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=v-sonawane&show_icons=true&count_private=true&theme=tokyonight)
 
-<p>📫 How to reach me: 
-<center>
-<a href="https://www.linkedin.com/in/vaishnavi-sonawane-82ba351a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://medium.com/@vsona200900"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
-<a href="https://www.instagram.com/_vaishnavi_sonawane"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-</center>
-</p>
+<h3>Where to find me:</h3>
+
+[![Linkedin: ritvij-kumar-sharma](https://img.shields.io/badge/-Ritvij_Kumar_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)](https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)
+[![GitHub: Vaishnavi Sonawane](https://img.shields.io/github/followers/ritvij14?label=follow&style=social)](https://github.com/v-sonawane)
+[![Gmail: Vaishnavi Sonawane](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:vsona200900@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=v-sonawane&label=PROFILE+VIEWS&style=plastic&color=blue)
+
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
