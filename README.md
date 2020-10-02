@@ -1,4 +1,7 @@
-<img src="https://github.com/v-sonawane/v-sonawane/blob/master/sss2.PNG?raw=true" height="300" width="510">
+<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Vaishnavi.<br> Nice to meet you!</h1>
+
+
+<h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
 
 <!--
 **v-sonawane/v-sonawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
