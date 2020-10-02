@@ -17,6 +17,7 @@
 <a href="https://instagram.com/_vaishnavi_sonawane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="v-sonawaner" height="30" width="30" /></a>
 <a href="https://medium.com/@vsona200900" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vsona200900" height="30" width="30" /></a>
 </p>
+
 [![GitHub: Vaishnavi Sonawane](https://img.shields.io/github/followers/ritvij14?label=follow&style=social)](https://github.com/v-sonawane)
 [![Gmail: Vaishnavi Sonawane](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:vsona200900@gmail.com)
 
