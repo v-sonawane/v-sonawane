@@ -1,7 +1,7 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Vaishnavi.<br> Nice to meet you!</h1>
 
 
-<h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
+<h2 align='center'>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-071a52?style=for-the-badge&logo=python" height="30">
 
