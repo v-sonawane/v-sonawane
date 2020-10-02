@@ -11,7 +11,7 @@
 
 <h3>Where to find me:</h3>
 
-[![Linkedin: ritvij-kumar-sharma](https://img.shields.io/badge/-Ritvij_Kumar_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)](https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)
+[![Linkedin: Vaishnavi Sonawane](https://img.shields.io/badge/-Vaishnavi_Sonawane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnavi-sonawane-82ba351a9/kumar-sharma-1410-rks/)](https://www.linkedin.com/in/ritvij-kumar-sharma-1410-rks/)
 [![GitHub: Vaishnavi Sonawane](https://img.shields.io/github/followers/ritvij14?label=follow&style=social)](https://github.com/v-sonawane)
 [![Gmail: Vaishnavi Sonawane](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:vsona200900@gmail.com)
 
