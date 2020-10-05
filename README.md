@@ -2,6 +2,8 @@
 
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1463602170/430/what_year_is_it.png?1463602170" height='200' width="170" /></h2>
 <h3 align='center'>Welcome to my page! What year is it?? ROFL.</h2>
+
+<h3>I am an AI Geek who is fund of developing technologies</h3>
 <h3>My stats:</h3>
 
 ![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=v-sonawane&show_icons=true&count_private=true&theme=tokyonight)
