@@ -1,7 +1,8 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Vaishnavi.<br> Nice to meet you!</h1>
 
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1463602170/430/what_year_is_it.png?1463602170" height='200' width="170" /></h2>
-<h3 align='center'>Welcome to my page. What year is it??</h2>
+<h3 align='center'>Welcome to my page! What year is it??</h2>
+<h4 align='center'>LOL <img src="https://emojis.slackmojis.com/emojis/images/1542340468/4973/lol.gif?1542340468"  width="25" /></h4>
 
 
 <h3>My stats:</h3>
