@@ -11,6 +11,13 @@
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
+<h3>My Blogs:</h3>
+<ul>
+  <li><a href="https://medium.com/swlh/roi-segmentation-contour-detection-and-image-thresholding-using-opencv-c0d2ea47b787">ROI Segmentation, Contour Detection and Image Thresholding Using OpenCV</a></li>
+  <li><a href="https://medium.com/swlh/revisiting-regression-analysis-2ff050fb8b89">Revisiting Regression Analysis</a></li>
+  <li><a href="https://spillingthetea.medium.com/what-really-is-mindful-practice-59c9846acda5">What Really is Mindful Practice?</a></li>
+</ul>
+
 <h3>Where to find me:</h3>
 
 <p align="center">
