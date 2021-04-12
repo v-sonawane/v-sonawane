@@ -3,11 +3,23 @@
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1463602170/430/what_year_is_it.png?1463602170" height='200' width="170" /></h2>
 <h3 align='center'>Welcome to my page! What year is it?? ROFL.</h2>
 
-<h3>I am an AI Geek who is fund of developing technologies</h3>
+<h3>I am an AI Geek who is fund of developing inter-disciplinary technologies.</h3>
 <h3>My stats:</h3>
 
 ![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=v-sonawane&show_icons=true&count_private=true&theme=tokyonight)
 
+<h3>Projects:</h3>
+<ul>
+  <li><a href="https://github.com/v-sonawane/Sign-Language-Interpretation-And-Translation">Unite Mojo: A Sign Language Interpretation & translation web-application</a></li>
+  <li><a href="https://github.com/v-sonawane/Immune-Monk">Immune Monk: Friend in Need</a></li>
+  <li><a href="https://github.com/v-sonawane/Twitter-Sentiment-Analysis">Twitter Sentiment Analysis</a></li>
+  
+</ul>
+
+<h3>Currently Working On: </h3>
+<ul>
+  <li>A Research paper on Melanoma Skin Cancer Cell Detection</li>
+</ul>
 <h3>My Blogs:</h3>
 <ul>
   <li><a href="https://medium.com/swlh/roi-segmentation-contour-detection-and-image-thresholding-using-opencv-c0d2ea47b787">ROI Segmentation, Contour Detection and Image Thresholding Using OpenCV</a></li>
