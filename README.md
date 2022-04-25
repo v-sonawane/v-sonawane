@@ -15,7 +15,6 @@
                 Information Technology Student, Data Science Enthusiast, Problem Solver.<br><br>
                 I specialize in Data Science and Machine Learning. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning more about Big Data and Software Development.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-driven, and social.
             </strong>
         </p>
         <ul>
@@ -38,5 +37,9 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-sonawane&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
+    </div><br>
+    <div align="center">
+            Here, Hope this makes you laugh 🤗 <br/><br/>
+            <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     </div>
 </div>
