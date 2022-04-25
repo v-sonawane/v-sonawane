@@ -1,42 +1,47 @@
-<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Vaishnavi.<br> Nice to meet you!</h1>
-
-<h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1463602170/430/what_year_is_it.png?1463602170" height='200' width="170" /></h2>
-<h3 align='center'>Welcome to my page! What year is it?? ROFL.</h2>
-
-<h3>I am an AI Geek who is fund of developing inter-disciplinary technologies.</h3>
-<h3>My stats:</h3>
-
-![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=v-sonawane&show_icons=true&count_private=true&theme=tokyonight)
-
-<h3>Projects:</h3>
-<ul>
-  <li><a href="https://github.com/v-sonawane/Sign-Language-Interpretation-And-Translation">Unite Mojo: A Sign Language Interpretation & translation web-application</a></li>
-  <li><a href="https://github.com/v-sonawane/Immune-Monk">Immune Monk: Friend in Need</a></li>
-  <li><a href="https://github.com/v-sonawane/Twitter-Sentiment-Analysis">Twitter Sentiment Analysis</a></li>
-  
-</ul>
-
-<h3>Currently Working On: </h3>
-<ul>
-  <li>A Research paper on Melanoma Skin Cancer Cell Detection</li>
-</ul>
-<h3>My Blogs:</h3>
-<ul>
-  <li><a href="https://medium.com/swlh/roi-segmentation-contour-detection-and-image-thresholding-using-opencv-c0d2ea47b787">ROI Segmentation, Contour Detection and Image Thresholding Using OpenCV</a></li>
-  <li><a href="https://medium.com/swlh/revisiting-regression-analysis-2ff050fb8b89">Revisiting Regression Analysis</a></li>
-  <li><a href="https://spillingthetea.medium.com/what-really-is-mindful-practice-59c9846acda5">What Really is Mindful Practice?</a></li>
-</ul>
-
-![](https://forthebadge.com/images/badges/built-with-love.svg)
-![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-<h3>Where to find me:</h3>
-
-<p align="center">
-</a>
-<a href="https://linkedin.com/in/vaishnavi-sonawane-82ba351a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="v-sonawane" height="30" width="30" /></a>
-<a href="https://kaggle.com/vaishnaviasonawane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="v-sonawane" height="30" width="30" /></a>
-<a href="https://instagram.com/_vaishnavi_sonawane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="v-sonawaner" height="30" width="30" /></a>
-<a href="https://medium.com/@vsona200900" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vsona200900" height="30" width="30" /></a>
-</p>
-
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vaishnavi+%F0%9F%91%8B;Information+Technology+Student;Data+Science+Enthusiast;Problem+Solver;" alt="Headline" />
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/vaishnavisonawane/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+      
+    </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Information Technology Student, Data Science Enthusiast, Problem Solver.<br><br>
+                I specialize in Data Science and Machine Learning. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                I am passionate about learning more about Big Data and Software Development.<br><br>
+                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-driven, and social.
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently pursuing</b>: Bachelor of Technology with IT as a major.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1t5BAvybiwSY_JMM2m9881oRtogjzbDOL/view?usp=sharing">LINK TO MY RESUME</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/v-sonawane/v-sonawane/issues">Here</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I love Coding(💻), Writing(📝), Traveling(🌍), and Photography(📷).</li>
+        </ul>
+    </div>
+    <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=v-sonawane&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <!--
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=v-sonawane&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-sonawane&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+</div>
