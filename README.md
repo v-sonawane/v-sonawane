@@ -7,7 +7,6 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/vaishnavisonawane/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-      
     </div>
     <div align=left>
         <br>
@@ -39,9 +38,5 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-sonawane&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
-    </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
     </div>
 </div>
