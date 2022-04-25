@@ -20,7 +20,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently pursuing</b>: Bachelor of Technology with IT as a major.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/v-sonawane/DSA">DSA</a>, ⭐️ star the repository if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1t5BAvybiwSY_JMM2m9881oRtogjzbDOL/view?usp=sharing">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/v-sonawane/v-sonawane/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
