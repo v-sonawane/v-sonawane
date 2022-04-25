@@ -42,4 +42,7 @@
             Here, Hope this makes you laugh 🤗 <br/><br/>
             <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     </div>
+      <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 </div>
