@@ -12,7 +12,7 @@
         <br>
         <p>
             <strong>
-                Information Technology Student, Data Science Enthusiast, Problem Solver.<br><br>
+                Information Technology Student, Lead- Google Developer Student Clubs (CHARUSAT), Data Science Enthusiast, Problem Solver.<br><br>
                 I specialize in Data Science and Machine Learning. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning more about Big Data and Software Development.<br><br>
             </strong>
