@@ -25,6 +25,7 @@
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Coding(💻), Writing(📝), Traveling(🌍), and Photography(📷).</li>
         </ul>
+<p>
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
@@ -45,4 +46,5 @@
       <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=v-sonawane&label=Profile%20views&color=0e75b6&style=flat" alt="v-sonawane" /> </p>
 </div>
