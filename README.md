@@ -12,17 +12,15 @@
         <br>
         <p>
             <strong>
-                Information Technology Student, Lead- Google Developer Student Clubs (CHARUSAT), Data Science Enthusiast, Problem Solver.<br><br>
+                MLOps Engineer, Information Technology Graduate, Ex- Google Developer Student Clubs (CHARUSAT) Lead, Data Science Enthusiast, Problem Solver.<br><br>
                 I specialize in Data Science and Machine Learning. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning more about Big Data and Software Development.<br><br>
+                I am passionate about learning more about Big Data and Production ML in general.<br><br>
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently pursuing</b>: Bachelor of Technology with IT as a major.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/v-sonawane/DSA">DSA</a>, ⭐️ star the repository if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1t5BAvybiwSY_JMM2m9881oRtogjzbDOL/view?usp=sharing">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/v-sonawane/v-sonawane/issues">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>🌱 <b>I’m currently working as a MLOps Engineer at Intuitive.Cloud.</li>
+            <li>🤔 <b>I absolutely love to discuss ALL THINGS ML <a href="[https://drive.google.com/file/d/1t5BAvybiwSY_JMM2m9881oRtogjzbDOL/view?usp=sharing](https://all-things-machine-learning.gitbook.io/all-things-machine-learning/)">LINK TO MY WEBSITE</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to following me here.</li>
             <li>😄 <b>Fun fact</b>: I love Coding(💻), Writing(📝), Traveling(🌍), and Photography(📷).</li>
         </ul>
 <p>
