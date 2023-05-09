@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vaishnavi+%F0%9F%91%8B;Information+Technology+Student;Data+Science+Enthusiast;Problem+Solver;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vaishnavi+%F0%9F%91%8B;MLOps+Engineer;Data+Science+Enthusiast;Problem+Solver;" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/vaishnavisonawane/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -19,7 +19,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently working as a MLOps Engineer at Intuitive.Cloud.</li>
-            <li>🤔 <b>I absolutely love to discuss ALL THINGS ML <a href="[https://drive.google.com/file/d/1t5BAvybiwSY_JMM2m9881oRtogjzbDOL/view?usp=sharing](https://all-things-machine-learning.gitbook.io/all-things-machine-learning/)">LINK TO MY WEBSITE</a>.</li>
+            <li>🤔 <b>I absolutely love to discuss ALL THINGS ML <a href="https://all-things-machine-learning.gitbook.io/all-things-machine-learning/">LINK TO MY WEBSITE</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to following me here.</li>
             <li>😄 <b>Fun fact</b>: I love Coding(💻), Writing(📝), Traveling(🌍), and Photography(📷).</li>
         </ul>
